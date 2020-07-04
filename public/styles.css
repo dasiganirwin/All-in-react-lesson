@@ -1,0 +1,17 @@
+.heading {
+  color: red;
+  font-family: Arial;
+}
+
+.avenger-img {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  border-radius: 0% 0%;
+}
+
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
